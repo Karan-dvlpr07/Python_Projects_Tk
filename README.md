@@ -119,3 +119,75 @@ length = len(a)-1
 print(length)
 
 ```
+##### Project_12
+
+Length Excluding Characters
+
+``` python
+
+a = input()
+length = len(a)-2
+print(length)
+
+```
+##### Project_13
+
+Star Repetition `First letter no change`
+
+``` python
+
+a = input()
+b = len(a)
+c = a[0]
+d = c
+d = c + ("*"*d)
+print(d)
+
+```
+##### Project_14
+
+Half Length of String `7/2 = 2.5`
+
+``` python
+
+a = input()
+b = len(a)
+c = a[0]
+d = c
+d = c + ("*"*d)
+print(d)
+
+```
+##### Project_14
+
+Sum of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a+b)
+
+```
+##### Project_15
+
+Division of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a/b)
+
+```
+##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```
