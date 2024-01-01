@@ -1,1 +1,1 @@
-# Python_Projects
+print("Hello world")
