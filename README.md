@@ -191,3 +191,787 @@ b = int(input())
 print(a*b)
 
 ```
+##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```
+##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```
+##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```
+##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```##### Project_16
+
+Multiple of two numbers
+
+``` python
+
+a = int(input())
+b = int(input())
+print(a*b)
+
+```
