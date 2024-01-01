@@ -85,3 +85,26 @@ a_reversed = a[::-1]
 print(a_reversed)
 
 ```
+##### Project_9
+
+Lenth of String
+
+``` python
+
+a = input()
+length = len(a)
+print(length)
+
+```
+##### Project_10
+
+Lenth of Star
+
+``` python
+a = input()
+b = len(a)
+c = "*"*b
+print(c)
+
+
+```
