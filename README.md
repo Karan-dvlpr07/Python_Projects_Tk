@@ -26,11 +26,24 @@ print("###")
 ```
 ##### Project_4
 
+Print Reverse Order
+
 ``` python
 
 a = input()
 b = input()
 print(b)
 print(a)
+
+```
+##### Project_1
+
+Print Name and Age
+
+``` python
+
+a = input()
+b = input()
+print(a + " " + "is" + " " + b + " " + "years old")
 
 ```
