@@ -108,3 +108,14 @@ print(c)
 
 
 ```
+##### Project_11
+
+Print String Length `Subtract-1`
+
+``` python
+
+a = input()
+length = len(a)-1
+print(length)
+
+```
