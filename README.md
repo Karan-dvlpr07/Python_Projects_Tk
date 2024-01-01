@@ -1,9 +1,9 @@
 
 ##### Project_1
 
-``` python
-
 Print Hellow World
+
+``` python
 
 print("Hello world")
 
@@ -42,7 +42,7 @@ print(b)
 print(a)
 
 ```
-##### Project_1
+##### Project_5
 
 Print Name and Age
 
@@ -51,5 +51,17 @@ Print Name and Age
 a = input()
 b = input()
 print(a + " " + "is" + " " + b + " " + "years old")
+
+```
+
+##### Project_6
+
+String Repetition
+
+``` python
+
+a = input() 
+b = a + " "
+print(b*3)
 
 ```
