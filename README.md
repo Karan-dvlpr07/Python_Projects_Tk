@@ -65,3 +65,23 @@ b = a + " "
 print(b*3)
 
 ```
+##### Project_7
+
+Print First Charecter
+
+``` python
+a = input()
+print(a[0])
+
+```
+##### Project_8
+
+Print revrse
+
+``` python
+
+a = input()
+a_reversed = a[::-1]
+print(a_reversed)
+
+```
